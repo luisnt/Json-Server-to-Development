@@ -2,9 +2,9 @@
 
 ```console
   npm run dev
-```
-or 
-```console
+
+      or 
+
   yarn dev
 ```
 
