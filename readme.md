@@ -1,10 +1,9 @@
-# Start with
+# Starting server 
 
 ```console
   npm run dev
 ```
 or 
-
 ```console
   yarn dev
 ```
